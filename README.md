@@ -24,7 +24,11 @@ Padding each margin to fit the web page, painting the header & backgrounds, leve
 up the button structures, and most importantly inserting the @media (max-width:768px)
 device display code for width page adjustments for tablet & phone devices.
 
-Read my code to understand. No joke. Pure Code.
+Read my code to understand how it was made. 
+
+Download it as a .zip folder and run it on a text editor.
+
+Thank you.
 
 Best regards,
 Christian
